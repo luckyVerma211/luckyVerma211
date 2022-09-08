@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luckyVerma211
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C++ $ Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on instagram @dynamic_king211
 
